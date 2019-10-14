@@ -1,0 +1,170 @@
+header {
+    border: 1px solid #509e4;
+    background-color: rgb(80, 158, 74);
+    height: 150px;
+    margin: 0px auto;
+  }
+  
+  
+  body {
+     background-color: rgb(73, 153, 81);
+  }
+  
+  a:hover{
+    color: yellow;
+  }
+  
+  .proin {
+    position: absolute;
+    top: 60px;
+    left: 50px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  .buyno{
+    position: absolute;
+    top: 60px;
+    left: 300px;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .rewards{
+    position: absolute;
+    top: 60px;
+    left: 450px;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+  }
+  .sprman {
+    background-color: black;
+  }
+  
+  .Mission {
+    text-decoration: line-through yellow;
+  }
+  
+  .green {
+    color: green;
+  }
+  
+  .h1{
+    
+  }
+  
+  .vid1txt{
+    position: relative;
+    left: 50px;
+    
+  }
+  
+  .mid{
+    height: 350px;
+    background-color: white;
+  }
+  
+  .vid1{
+    position: relative;
+    left: 45px;
+  }
+  
+  .vid2{
+    position: absolute;
+    top: 1229px;
+    left: 660px;
+  }
+  
+  .vid2txt
+  {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 100px;
+  }
+  
+  .sprbot{
+    position: absolute;
+    top: 1595px;
+    left: 500px;
+    height: 200px;
+  }
+  
+  .tmw {
+    font-family: georgia;
+  }
+  
+  .thirst {
+    background-color: rgb(73, 153, 81);
+  }
+  
+  .thirsttxt {
+    position: absolute;
+    top: 1595px;
+    left: 800px;
+    
+  }
+  
+  .button2 {
+    border-style: solid;
+    border-color: white;
+    background-color: green;
+    position: absolute;
+    top: 180px;
+    left: 78px;
+  }
+  
+  .playlist {
+    background-color: black;
+    height: 400px;
+  }
+  
+  .button {
+    border-style: solid;
+    border-color: green;
+    background-color: green;
+  }
+  
+  .vop {
+    color: white;
+  }
+  
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .db {
+    background-color: rgb(80, 158, 74);
+  }
+  
+  .cwu {
+    font-family: georgia;
+  }
+  
+  .fa-facebook {
+    background: white;
+    color: green;
+  }
+  
+  .fa-youtube {
+    background: white;
+    color: green;
+  }
+  
+  .fa-instagram {
+    background: white;
+    color: green;
+  }
+  
+  .fa-twitter {
+    background: white;
+    color: green;
+  }
+  
